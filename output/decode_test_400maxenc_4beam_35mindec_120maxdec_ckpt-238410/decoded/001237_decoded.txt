@@ -1,0 +1,3 @@
+a new facebook graph reveals the favorite baseball teams in the country .
+the toronto blue jays can also claim almost all of canada , though the yankees and red sox are also favorites in some areas .
+the graph , created by facebook , uses profile likes and then breaks the individuals down by country to determine a winner .

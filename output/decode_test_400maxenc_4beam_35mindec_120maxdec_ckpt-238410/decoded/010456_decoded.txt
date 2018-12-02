@@ -1,0 +1,2 @@
+security researchers have found a way to intercept a person 's biometric data after it is captured by a built-in scanner , but experts are advising people on older models to update as soon as possible .
+the vulnerability means that a hacker can access the kernel , or core , of the android operating system .

@@ -1,0 +1,3 @@
+the map reveals average yearly counts of lightning flashes per square kilometre from 1995 to 2013 .
+areas with the largest number of flashes - up to 150 per year per square kilometre -lrb- 0.4 square miles -rrb- - are bright pink .
+according to the satellite observations , lightning occurs more often closer to the equator .

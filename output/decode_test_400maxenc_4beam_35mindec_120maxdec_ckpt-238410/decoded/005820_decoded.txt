@@ -1,0 +1,3 @@
+developers at open garden have built a small device designed to make these off-the-grid networks stronger .
+its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
+it takes advantage of a feature that launched in apple 's ios 7 called multipeer connectivity framework -lrb- mcf -rrb- to ios 7 .
